@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Queuing</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="sample_res_text">OUTBACK Steak House</string>
+    <string name="sample_res_cuisine">스테이크, 패밀리 레스토랑</string>
+    <string name="num">명</string>
+    <string name="ready">준비 중 입니다.</string>
+    <string name="menu">메뉴</string>
+    <string name="openhour">영업시간:</string>
+    <string name="cuisine">업종:</string>
+    <string name="webpage">웹사이트:</string>
+    <string name="adress">주소:</string>
+    <string name="number">번호:</string>
+    <string name="confirm_name">예약자</string>
+    <string name="confirm_party">일행</string>
+    <string name="confirm_line"></string>
+    <string name="confirm_sample_name">정운형</string>
+    <string name="confirm_sample_party">3</string>
+    <string name="confirm_sample_line"></string>
+    <string name="confirm_message">알리기</string>
+    <string name="drawer_open">OPEN</string>
+    <string name="drawer_close">CLOSE</string>
+    <string name="kakao_app_key">83905af5ef17e53719bd75dfc2c2e827</string>
+    <string name="error_message_for_service_unavailable">error_in_Login</string>
+    <string name="title_activity_owner">OwnerActivity</string>
+</resources>
